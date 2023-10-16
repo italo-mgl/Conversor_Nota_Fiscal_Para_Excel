@@ -8,7 +8,7 @@ Todos os dados são salvos automticamente em uma planilha do excel, e tudo isso 
 
 <h4> Como rodar o programa ? </h4>
 <p>
-  Para rodar o programa, voce precisará ter o Python 3.* instalado alem disso, voce precisará fazer a instalação de algumas bibliotecas no sistema.
+  Para rodar o programa, voce precisará ter o Python 3.* instalado alem disso, voce precisará fazer a instalação de algumas bibliotecas no sistema
 </p>
 <p>
   Abrir terminal ou cmd e digitar ' pip install + <strong>"nome da biblioteca"</strong>. Segue abaixo a lista das bibliotecas que são necessárias.
