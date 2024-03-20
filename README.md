@@ -12,6 +12,8 @@ Todos os dados são salvos automticamente em uma planilha do excel, e tudo isso 
 </p>
 <p>
   Abrir terminal ou cmd e digitar ' pip install + <strong>"nome da biblioteca"</strong>. Segue abaixo a lista das bibliotecas que são necessárias.
+    Abrir terminal ou cmd e digitar ' pip install + <strong>"nome da biblioteca"</strong>. Segue abaixo a lista das bibliotecas que são necessárias.
+
 </p>
 
 * xmltodict
